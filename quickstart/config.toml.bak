@@ -1,0 +1,34 @@
+baseURL = 'http://afifurra.github.io'
+languageCode = 'en-us'
+title = 'Muhammad Afifurrahman'
+theme = 'hugo-bearblog-master'
+
+
+#privacy stuff
+[privacy]
+    [privacy.disqus]
+        disable =  true
+    
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        respectDoNotTrack = true
+
+    [privacy.youtube]
+        privacyEnhanced = true
+
+[params]
+
+
+  description = "Homepage"
+ title = "Homepage"
+ 
+favicon = "img/favicon.png"
+  images = ["images/favicon.png"]
+  
+    [params.assets]
+        disableFingerprinting = true
+		
+		
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
