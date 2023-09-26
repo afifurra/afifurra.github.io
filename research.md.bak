@@ -7,7 +7,7 @@ weight: '1'
 
 ### Research
 
-Broadly speaking, I am quite interested in discrete mathematics, especially number theory, combinatorics, and finite fields. For my PhD, I am currently working for some problems on matrices over sets of number theoretic interests. During my bachelor and master, I did a total of two final projects on some objects over finite fields. However, I am also open for other topics.
+Broadly speaking, I am quite interested in discrete mathematics, especially number theory, combinatorics, and finite fields. For my PhD, I am currently working for some problems on matrices over sets of number theoretic interests. During my bachelor and master, I did a total of two final projects on some objects over finite fields. However, I am open for learning other topics.
 
 ### Publications
 - **Muhammad Afifurrahman**. *Some counting questions for matrix products*, accepted to Bulletin of Australian Mathematical Society. [Preprint](https://arxiv.org/abs/2306.04885).
@@ -16,3 +16,8 @@ Broadly speaking, I am quite interested in discrete mathematics, especially numb
 AIP Conference Proceedings 2423, 060002 (2021). [Preprint](https://arxiv.org/abs/2111.08352).
 
 Other projects coming soon.
+
+
+### Research Talks
+- 11th Number Theory Down Under Conference, Australian National University Mathematical Science Institute, Canberra, Australia, September 2023. *Counting products of integer matrices with bounded height*. [Slides](H2309_NTDU.pdf)
+- MathTech 2020 , Universiti Sains Malaysia, Penang, Malaysia (virtual), November 2020. *On the number of different entries in involutory MDS matrices over finite fields of characteristic two*.
