@@ -14,15 +14,15 @@ weight: '3'
 - Participant, Trimester Program on Harmonic Analysis and Analytic Number Theory, Hausdorff Institute of Mathematics (held virtually) (2021)
 - Participant, Summer School in Analytic Number Theory, Universite de Paris (held virtually) (2021)
 
-### Campus Activities
+### Other Mathematical Activities
 
 #### University of New South Wales
 - Casual Academic, responsible for inviligating and marking some first-year courses (2022-present)
 - Drop-in Centre Tutor (2023-present)
-#### Institut Teknologi Bandung ####
+#### Institut Teknologi Bandung
 - Grader for various courses, including Calculus, Introduction to Real Analysis, Introduction to Complex Analysis, Elementary Linear Algebra, and Introduction to (Proof-Based) Mathematics (2018-2022)
 - Drop-in Centre Tutor (2019-2022)
 
-#### Olympiad: ####
+#### Mathematical Olympiad 
 - Assistant Tutor, Indonesia International Mathematical Olympiad Training Camp (2017-present)
 - Freelance mathematical olympiad tutor (2017-present)
