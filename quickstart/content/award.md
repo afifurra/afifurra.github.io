@@ -1,25 +1,23 @@
 ---
-title: 'Awards and Others'
+title: 'Achievements'
 draft: false
 menu: 'main'
 weight: '5'
 ---
 
-### Awards
+### Selected Awards
 - Fast Track Program Awardee, Institut Teknologi Bandung (2020-2021)
 - First Prize, International Mathematics Competition for University Students 2019.
 - Gold Medal in Mathematics, Olimpiade Nasional Matematika & Ilmu Pengetahuan Alam 2019.
 
 
-### Scholarship and Grants
-- Recipient of AMSI Grant for AMSI Summer School 2023.
-- Recipient of Postgraduate Research Student Support UNSW for registering at AustMS Annual Meeting 2022 and AMSI Summer School 2023.
+### Selected Scholarship and Grants
 - UNSW Tuition Fee Scholarship + Research Stipend Scholarship Holder (2022-2026 (expected))
 - GTA 100 Scholarship Holder, Institut Teknologi Bandung (2020-2021)
 
-### Other Activities
+### Selected Other Activities
+- Scriptwriter in Metamatika Project at [Spearhead Circle](https://www.facebook.com/profile.php?id=100089620167900), a mathematical book project in Bahasa Indonesia that blends mathematics with popular culture (2023-present)
 - Coordinator of Indonesian PhD student group at UNSW (2023-present)
-- Member at [Indonesian Algebra Society](https://indoas.id/) (2021-present)
 - Contest Problem Proposer at [Kontes Terbuka Olimpiade Matematika](https://www.ktom-tomi.or.id/) (2015-present, in Bahasa Indonesia)
 - Guest Speaker at [Podcast Bebas Linear](https://open.spotify.com/show/1gSCPVgcEpbSNptCb88evE) (7 episodes, 2020-2023, in Bahasa Indonesia)
 - Arranger of an Indonesian series of five talkshows on studying graduate mathematics abroad (2021-2022)
