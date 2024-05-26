@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://afifurra.github.io/other/</loc>
-  </url><url>
     <loc>http://afifurra.github.io/research/</loc>
   </url><url>
     <loc>http://afifurra.github.io/activity/</loc>
+  </url><url>
+    <loc>http://afifurra.github.io/other/</loc>
   </url><url>
     <loc>http://afifurra.github.io/links/</loc>
   </url><url>

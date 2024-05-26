@@ -8,16 +8,6 @@
     <language>en-us</language><atom:link href="http://afifurra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research &amp; Education</title>
-      <link>http://afifurra.github.io/other/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://afifurra.github.io/other/</guid>
-      <description>Research Broadly speaking, I am interested in discrete mathematics, especially number theory, combinatorics, and finite fields. For my PhD, I am currently working on various problem related to equations of restricted height. During my bachelor and master studies, I did a total of two final projects on some objects over finite fields. However, I am open for learning other topics.
-Publications Muhammad Afifurrahman, Vivian Kuperberg, Alina Ostafe, and Igor E. Shparlinski.</description>
-    </item>
-    
-    <item>
-      <title>Research &amp; Education</title>
       <link>http://afifurra.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,7 +22,17 @@ Publications Muhammad Afifurrahman, Vivian Kuperberg, Alina Ostafe, and Igor E. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://afifurra.github.io/activity/</guid>
-      <description>Selected Research Activities Participant, Computational Aspect of Thin Groups, Institute for Mathematical Sciences &amp;amp; National University of Singapore (2024) Participant, AMSI Summer School 2023 at University of Melbourne (held hybrid) (2023). Here is my report as a grant recipient. Participant, International School on Algebraic Geometry and Algebraic Groups, Institute of Mathematics, VIAST (held virtually) (2021) Participant, Trimester Program on Harmonic Analysis and Analytic Number Theory, Hausdorff Institute of Mathematics (held virtually) (2021) Participant, Research Experience in Mathematics, HSE University, Moscow, Russia (held virtually) (2021), supervised by Ilya V.</description>
+      <description>Other Mathematical Activities University of New South Wales Class Tutor for MATH1081 Discrete Mathematics (2024-present) Drop-in Centre Tutor (2023-present) Exams Invigilator (2022-present) Exams &amp;amp; Assignments Marker (2022-present) Institut Teknologi Bandung Drop-in Centre Tutor (2019-2022) Exams Invigilator (2018-2022) Exams &amp;amp; Assignments Marker (2018-2022) Mathematical Olympiad Assistant Tutor, Indonesia International Mathematical Olympiad Training Camp (2017-present) Freelance mathematical olympiad tutor (2017-present) Reading Groups With Laurence Petrus Wijaya, I coordinate reading groups on mathematical papers in Bahasa Indonesia from 2023.</description>
+    </item>
+    
+    <item>
+      <title>Other Works</title>
+      <link>http://afifurra.github.io/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://afifurra.github.io/other/</guid>
+      <description>Mettamatika Project Mettamatika Project comes from Spearhead Circle, a pop-culture collective based in Indonesia, with backbones from my friends in ITB. The main mission of Mettamatika is giving books that blend mathematical contents with pop cultures.
+Being a part of the scripwriter team in Mettamatika Project (under nickname Furra), I have made a series of mathematical zines in Mettamatika vol 0.5 (2023), and a calculus book for Mettamatika vol. 1 (2024).</description>
     </item>
     
     <item>
@@ -41,10 +41,7 @@ Publications Muhammad Afifurrahman, Vivian Kuperberg, Alina Ostafe, and Igor E. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://afifurra.github.io/links/</guid>
-      <description>Mettamatika Project Other links Here are my English and Indonesian blogs (which are infrequently updated).
-During pandemic, I often crash into some online mathematical research seminars from Research Seminars webpage. In fact, I first knew my doctoral advisor from the Number Theory Web Seminar that she organizes.
-I like binge-reading mathematical blogs; in particular, Terence Tao&amp;rsquo;s and Igor Pak&amp;rsquo;s are worth reading.
-I started to listen to some worldwide radio at Radio Garden.</description>
+      <description>Other links Here are my English and Indonesian blogs (which are infrequently updated). During the pandemic, I often crash into some online mathematical research seminars from Research Seminars webpage. In fact, I first knew my doctoral advisor from the Number Theory Web Seminar that she organizes. I like binge-reading mathematical blogs; in particular, Terence Tao&amp;rsquo;s and Igor Pak&amp;rsquo;s are worth reading. I started to listen to some worldwide radio channels at Radio Garden.</description>
     </item>
     
   </channel>
