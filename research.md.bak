@@ -7,7 +7,7 @@ weight: '1'
 
 ## Research
 
-Broadly speaking, I am interested in discrete mathematics, especially number theory, combinatorics, and finite fields. For my PhD, I am currently working on various problem related to equations of restricted height. During my bachelor and master studies, I did a total of two final projects on some objects over finite fields. However, I am open for learning other topics.
+Broadly speaking, I am interested in discrete mathematics, especially number theory, combinatorics, and finite fields. For my PhD, I am currently working on various problem related to integer equations of restricted height. During my bachelor and master studies, I did a total of two final projects on some objects over finite fields. However, I am open for learning other topics.
 
 ### Publications
 - **Muhammad Afifurrahman**. A uniform formula on the number of integer matrices with given determinant and height, submitted. [Preprint](https://arxiv.org/abs/2401.10086).
@@ -15,16 +15,18 @@ Broadly speaking, I am interested in discrete mathematics, especially number the
 - **Muhammad Afifurrahman**. Some counting questions for matrix products, *Bull. Aust. Math. Soc.* **110** 1 (2024), 32-43. [Preprint](https://arxiv.org/abs/2306.04885).
 - **Muhammad Afifurrahman** and Aleams Barra. Determining Sidon polynomials on Sidon sets over finite fields, *J. Algebra Comb. Discrete Struct. Appl.*, **11** 3 (2024), 175-187. [Preprint](https://arxiv.org/abs/2111.08886).
 - **Muhammad Afifurrahman**. On the number of different entries in involutory MDS matrices over finite fields of characteristic two,
-*AIP Conference Proceedings* 2423, 060002 (2021). [Preprint](https://arxiv.org/abs/2111.08352).
+*AIP Conference Proceedings* **2423** 060002 (2021). [Preprint](https://arxiv.org/abs/2111.08352).
 
 Other projects coming soon.
 
 
 ### Research Talks
 Slides supplied when available.
-- 12th Number Theory Down Under Conference, La Trobe University, Bendigo, Australia, September 2024. *A uniform formula on the number of integer matrices with given determinant and height*. [Slides](H2409_NTDU.pdf)
+- Joint AustMS-NZMS-AMS Conference, University of Auckland, Auckland, New Zealand, December 2024. A uniform formula on the number of integer matrices with given 'determinant and height.
+- 7th Australian Mathematical Sciences Students Conference 2024, Western Sydney University, Sydney, Australia, September 2023. Counting rational matrices of bounded height.
+- 12th Number Theory Down Under Conference, La Trobe University, Bendigo, Australia, September 2024. *A uniform formula on the number of integer matrices with given determinant and height*.
 - UNSW School of Mathematics and Statistics 11th Postgraduate Seminar, August 2024. *Arithmetic statistics of rational matrices of bounded height*.
-- UNSW Number Theory Seminar, May 2024. *Arithmetic statistics of rational matrices of bounded height*. [Slides](H2405_UNSWNT.pdf)
+- UNSW Number Theory Seminar, May 2024. *Arithmetic statistics of rational matrices of bounded height*.
 - Combinatorial Number Theory And Connected Topics (CONTACT - III) (online), March 2024. *Counting products of integer matrices with bounded height*.
 - First Joint IIIMT – Algebra Forum Conference 2023, Universitas Mataram, Mataram, Indonesia (online), December 2023. *Arithmetic statistics of rational matrices of bounded height*.
 - The 67th Annual Meeting of the Australian Mathematical Society (AustMS 2023), University of Queensland, Brisbane, Australia, December 2023. *Arithmetic statistics of rational matrices of bounded height*. [Slides](H2312_AustMS.pdf)
