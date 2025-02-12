@@ -23,7 +23,7 @@ theme = 'hugo-bearblog-master'
  title = "Homepage"
  
 favicon = "img/favicon.png"
-  images = ["images/favicon.png"]
+  images = ["img/favicon.png"]
   
     [params.assets]
         disableFingerprinting = true
@@ -32,3 +32,5 @@ favicon = "img/favicon.png"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
+
+ customCSS = ["/style.css"]

@@ -1,6 +1,6 @@
 ---
 title: 'Quotes'
-draft: false
+draft: true
 menu: 'main'
 weight: '7'
 ---
