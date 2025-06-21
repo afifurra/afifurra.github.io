@@ -15,7 +15,7 @@ My CV in pdf is available [via this link](research/2506_CV_Muhammad_Afifurrahman
 I also tutored some classes in UNSW. In addition, I am also involved in several mathematical outreach activities, for example, 
 
 ![B1](/img/Metmat05.png)
-![B](/img/Metmat1.png)
+![B](/img/Metmat10.png)
 
 writing moe-fied mathematical books. Further information on these can be found [here]({{< ref "other.md" >}}).
 
