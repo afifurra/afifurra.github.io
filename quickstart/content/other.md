@@ -17,7 +17,7 @@ Being a part of the scripwriter team in Mettamatika Project (under nickname Furr
 ![B1](/img/Metmat05.png)
 ![B1](/img/Metmat1.png)
 ![B1](/img/Metmat15.png)
-![B](/img/Metmat2.png)
+![B1](/img/Metmat2.png)
 
 The books are mainly sold at Comic Frontier, the largest Indonesian pop culture market, held twice a year. I have helped the Spearhead Circle (and cosplayed...) during the 20th edition.
 
