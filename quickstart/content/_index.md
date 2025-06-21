@@ -4,13 +4,13 @@ draft: false
 featured_image: /img/thumbnail.jpg
 
 ---
-![A](img/furra.jpg)
+![A](img/furra2.jpg)
 
-I am **Afif**^, currently a **final-year mathematics PhD student** at University of New South Wales, Australia, supervised by [Alina Ostafe](https://web.maths.unsw.edu.au/~alinaostafe/) and [Igor E. Shparlinski](https://web.maths.unsw.edu.au/~igorshparlinski/). I am expecting to finish my degree at the beginning of 2026.
+I am **Afif**^, currently a **final-year mathematics PhD student** at University of New South Wales, Australia, supervised by [Alina Ostafe](https://web.maths.unsw.edu.au/~alinaostafe/) and [Igor E. Shparlinski](https://web.maths.unsw.edu.au/~igorshparlinski/). I am in the postdoctoral job market for 2026 and onwards. 
 
-My PhD project is on arithmetic statistics of multivariate Diophantine equations using techniques from **analytic number theory**. Generally, I am also interested in various parts of discrete mathematics. [Click here for more on my research and education]({{< ref "research.md" >}}).
+In shorthand, my PhD project studies arithmetic statistics of multivariate Diophantine equations using techniques from **analytic number theory**. Generally, I am also interested in various parts of discrete mathematics. [Click here for more on my research and education]({{< ref "research.md" >}}).
 
-My CV in pdf is available [via this link](research/2501_CV_Muhammad_Afifurrahman.pdf).
+My CV in pdf is available [via this link](research/2506_CV_Muhammad_Afifurrahman.pdf).
 
 I also tutored some classes in UNSW. In addition, I am also involved in several mathematical outreach activities, for example, 
 
@@ -29,4 +29,4 @@ Here are the links to my [Google Scholar](https://scholar.google.com/citations?u
 
 ^Muhammad is also fine, especially for non-Indonesians. Most Indonesians, including myself, do not have proper first-last name convention. See [this Wikipedia link](https://en.wikipedia.org/wiki/Indonesian_names#Indonesian_naming_traditions) on this practice.
 
-Last updated in February 2025.
+Last updated in June 2025.

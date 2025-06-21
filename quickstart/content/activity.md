@@ -9,7 +9,7 @@ weight: '3'
 ### Mathematical Teachings
 
 #### University of New South Wales
-- Class Tutor (2024-present). Classes including MATH1081 Discrete Mathematics, MATH1131 Mathematics 1A, MATH1141 Higher Mathematics 1A, MATH1231 Mathematics 1B and MATH1241 Higher Mathematics 1B.
+- Class Tutor (2024-present). Course tutored including MATH1081 Discrete Mathematics, MATH1131 Mathematics 1A, MATH1141 Higher Mathematics 1A, MATH1231 Mathematics 1B M,ATH1241 Higher Mathematics 1B and MATH1251 Mathematics for Actuarial Studies and Finance 1B.
 - Drop-in Centre Tutor (2023-present)
 - Exams Invigilator (2022-present)
 - Exams & Assignments Marker (2022-present)
@@ -20,6 +20,8 @@ weight: '3'
 - Exams & Assignments Marker (2018-2022)
 
 #### Mathematical Olympiad 
+- Observer B for Indonesia at International Mathematical Olympiad 2025, Sunshine Coast, Australia.
+- Observer A for Indonesia at International Mathematical Olympiad 2021, held online.
 - Assistant Tutor, Indonesia International Mathematical Olympiad Training Camp (2017-present)
 - Freelance mathematical olympiad tutor (2017-present)
 
@@ -30,7 +32,6 @@ With [Laurence Petrus Wijaya](https://sites.google.com/g.uky.edu/laurence-wijaya
 - D. Conlon, J. Fox and Y. Zhao, 'A relative Szemerédi theorem', GAFA **25** (2015), 733-762. [2023]
 - T. Tao and T. Ziegler, 'Infinite partial sumsets in the primes', J. Anal. Math. **151** (1) (2023), 375-389 [February-May 2024]
 - M. Bhargava, 'Galois groups of random integer polynomials and van der Waerden’s Conjecture’, accepted to Ann. Math. [August-November 2024]
-- T. Bloom and O. Sisask, 'The Kelley–Meka bounds for sets free of three-term arithmetic progressions’, Essent. Number Theory **2** (1) (2023), 15-44 [starts February 2025]
 
 ### Selected Other Mathematical Activities
 - Participant, Computational Aspect of Thin Groups, Institute for Mathematical Sciences & National University of Singapore (2024)
@@ -39,6 +40,7 @@ With [Laurence Petrus Wijaya](https://sites.google.com/g.uky.edu/laurence-wijaya
 - Research assistant under various research projects in ITB, with supervisors including: Aleams Barra, [Intan Muchtadi-Alamsyah](https://scholar.google.com/citations?user=JklwtR0AAAAJ&hl=en), [Pritta Etriana Putri](https://scholar.google.com/citations?user=uguXwMAAAAAJ&hl=en).
 
 ### Selected Awards
+- Selected as young researcher, Heidelberg Laureate Forum 2025.
 - Fast Track Program Awardee, Institut Teknologi Bandung, 2020-2021.
 - First Prize, International Mathematics Competition for University Students 2019.
 - Gold Medal in Mathematics, Olimpiade Nasional Matematika & Ilmu Pengetahuan Alam 2019.

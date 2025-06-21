@@ -7,13 +7,14 @@ weight: '1'
 
 ## Research
 
-Broadly speaking, I am interested in discrete mathematics, especially analytic number theory, combinatorics, and finite fields. For my PhD project, I work on arithmetic statistics of multivariate Diophantine equations (related to algebraic groups), using techniques from analytic number theory. During my bachelor and master studies, I did a total of two final projects over finite fields. However, I am open for learning other topics.
+Broadly speaking, I am interested in discrete mathematics, especially analytic number theory, combinatorics, and finite fields. For my PhD project, I work on arithmetic statistics of various algebraic objects with number theoretical importance. This project involves studying arithmetic statistics multivariate Diophantine equations, using techniques mostly from analytic number theory. During my bachelor and master studies, I did a total of two final projects over finite fields. However, I am open for learning other topics.
 
 ### Publications
-- Aleams Barra and **Muhammad Afifurrahman**. The total vertex irregularity strength for cubic graphs with a perfect matching, *Discrete Math.*, **348** 5 (2025), 114402.
 - **Muhammad Afifurrahman** and [Chandler C. Corrigan](https://web.maths.unsw.edu.au/~ccorrigan/). Solutions to multiplicative Diophantine equations in orthotopes, submitted. [arXiV:2501.15372](https://arxiv.org/abs/2501.15372).
 - **Muhammad Afifurrahman**. A uniform formula on the number of integer matrices with given determinant and height, submitted. [arXiV:2407.08191](https://arxiv.org/abs/2407.08191).
-- **Muhammad Afifurrahman**, [Vivian Kuperberg](https://n.ethz.ch/~vkuperber/), Alina Ostafe, and Igor E. Shparlinski. Statistics of ranks, determinants and characteristic polynomials of rational matrices, *Forum Math.*, to appear. [arXiV:2401.10086](https://arxiv.org/abs/2401.10086).
+- **Muhammad Afifurrahman**, Devi Imulia Dian Primaskun, Pritta Etriana Putri, and Laurence Petrus Wijaya.  On constructing 1-factors of labelled complete graph, Bol. Soc. Mat. Mex. **31** 82 (2025).
+- **Muhammad Afifurrahman**, [Vivian Kuperberg](https://n.ethz.ch/~vkuperber/), Alina Ostafe, and Igor E. Shparlinski. Statistics of ranks, determinants and characteristic polynomials of rational matrices, *Forum Math.*, **37** 4 (2025), 1259-1289.  [arXiV:2401.10086](https://arxiv.org/abs/2401.10086).
+- Aleams Barra and **Muhammad Afifurrahman**. The total vertex irregularity strength for cubic graphs with a perfect matching, *Discrete Math.*, **348** 5 (2025), 114402.
 - **Muhammad Afifurrahman**. Some counting questions for matrix products, *Bull. Aust. Math. Soc.* **110** 1 (2024), 32-43. [arXiV:2306.04885](https://arxiv.org/abs/2306.04885).
 - **Muhammad Afifurrahman** and Aleams Barra. Determining Sidon polynomials on Sidon sets over finite fields, *J. Algebra Comb. Discrete Struct. Appl.*, **11** 3 (2024), 175-187. [arXiV:2111.08886](https://arxiv.org/abs/2111.08886).
 - **Muhammad Afifurrahman**. On the number of different entries in involutory MDS matrices over finite fields of characteristic two,
@@ -24,7 +25,11 @@ Other projects coming soon.
 
 ### Research Talks
 Slides supplied when available.
-- Visiting Talk, Universitas Indonesia, Depok, Indonesia, February 2025. *A uniform formula on the number of integer matrices with given determinant and height*. 
+- UNSW Number Theory Seminar, October 2025.
+- 13rd Number Theory Down Under Conference, University of Canterbury, Christchurch, New Zealand, August 2025.
+- 33emes Journees Arithmetiques, University of Luxembourg, Luxembourg, July 2025. A uniform formula on the number of integer matrices with given determinant and height.
+- Combinatorial Number Theory And Connected Topics (CONTACT - IV) (online), March 2025. A uniform formula on the number of integer matrices with given determinant and height.
+- Visiting Talk, Universitas Indonesia, Depok, Indonesia, February 2025. *Counting rational matrices with bounded height*.
 - Visiting Talk, Universitas Gadjah Mada, Yogyakarta, Indonesia, February 2025. *A uniform formula on the number of integer matrices with given determinant and height*.  [Slides](H2502_UGM.pdf)
 - Visiting Talk, Universitas Diponegoro, Semarang, Indonesia, January 2025. *Counting rational matrices with bounded height*.
 - Visiting Talk, Institut Teknologi Bandung, Bandung, Indonesia, December 2024. *Counting rational matrices with bounded height*.
@@ -35,9 +40,7 @@ Slides supplied when available.
 - UNSW Number Theory Seminar, May 2024. *Arithmetic statistics of rational matrices of bounded height*. [Slides](H2405_UNSWNT.pdf)
 - Combinatorial Number Theory And Connected Topics (CONTACT - III) (online), March 2024. *Counting products of integer matrices with bounded height*.
 - First Joint IIIMT – Algebra Forum Conference 2023, Universitas Mataram, Mataram, Indonesia (online), December 2023. *Arithmetic statistics of rational matrices of bounded height*.
-- The 67th Annual Meeting of the Australian Mathematical Society (AustMS 2023), University of Queensland, Brisbane, Australia, December 2023. *Arithmetic statistics of rational matrices of bounded height*. [Slides](H2312_AustMS.pdf)
-- 11th Number Theory Down Under Conference, Mathematical Science Institute, Australian National University  Canberra, Australia, September 2023. *Counting products of integer matrices with bounded height*. [Slides](H2309_NTDU.pdf)
-- MathTech 2020 , Universiti Sains Malaysia, Penang, Malaysia (online), November 2020. *On the number of different entries in involutory MDS matrices over finite fields of characteristic two*.
+- The 67th Annual Meeting of the Australian Mathematical Society (AustMS 2023), University of Queensland, Brisbane, Australia, December 2023. *Arithmetic statistics of ratlds of characteristic two*.
 
 
 *What I can do right now... is to keep composing ~~songs~~[papers]...* - [Kanade Yoisaki](https://www.sekaipedia.org/wiki/Yoisaki_Kanade)
@@ -47,7 +50,9 @@ Slides supplied when available.
 - **Current thesis topic**: Arithmetic statistics of multivariable Diophantine equations
 - **Advisors**: [Alina Ostafe](https://web.maths.unsw.edu.au/~alinaostafe/) & [Igor E. Shparlinski](https://web.maths.unsw.edu.au/~igorshparlinski/)
 
-**MSc** (M.Si.) in Mathematics, Institut Teknologi Bandung, Bandung, Indonesia (2020-2021)
+**MSc** (M.Si.) in Mathematics, Instituional matrices of bounded height*. [Slides](H2312_AustMS.pdf)
+- 11th Number Theory Down Under Conference, Mathematical Science Institute, Australian National University  Canberra, Australia, September 2023. *Counting products of integer matrices with bounded height*. [Slides](H2309_NTDU.pdf)
+- MathTech 2020 , Universiti Sains Malaysia, Penang, Malaysia (online), November 2020. *On the number of different entries in involutory MDS matrices over finite fiet Teknologi Bandung, Bandung, Indonesia (2020-2021)
 - **Thesis**: Polynomial parametrization for some classes of maximum Sidon sets over finite fields
 - **Advisor**: [Aleams Barra](https://www.itb.ac.id/staf/profil/aleams-barra) (also well-known for [his YouTube channel](https://www.youtube.com/c/Bermatematikacom). He might be the most-subscribed Indonesian lecturer in Youtube.)
 
