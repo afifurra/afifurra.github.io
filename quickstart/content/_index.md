@@ -10,7 +10,7 @@ I am **Afif**^, currently a **final-year mathematics PhD student** at University
 
 In shorthand, my PhD project studies arithmetic statistics of multivariate Diophantine equations using techniques from **analytic number theory**. Generally, I am also interested in various parts of discrete mathematics. [Click here for more on my research and education]({{< ref "research.md" >}}).
 
-My CV in pdf is available [via this link](research/2506_CV_Muhammad_Afifurrahman.pdf).
+My CV in pdf is available [via this link](research/2509_CV_Muhammad_Afifurrahman.pdf).
 
 I also tutored some classes in UNSW. In addition, I am also involved in several mathematical outreach activities, for example, 
 
@@ -27,6 +27,8 @@ I came from [Banjarmasin](https://en.wikipedia.org/wiki/Banjarmasin), South Kali
 
 Here are the links to my [Google Scholar](https://scholar.google.com/citations?user=SnRXYlcAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7400-320X) and [zbMath](https://zbmath.org/authors/afifurrahman.muhammad) profiles.
 
+**News**: I will attend Heidelberg Laureate Forum 2025 as Young Researcher.
+
 ^Muhammad is also fine, especially for non-Indonesians. Most Indonesians, including myself, do not have proper first-last name convention. See [this Wikipedia link](https://en.wikipedia.org/wiki/Indonesian_names#Indonesian_naming_traditions) on this practice.
 
-Last updated in June 2025.
+Last updated in September 2025.
