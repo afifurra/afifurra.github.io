@@ -9,10 +9,10 @@ weight: '3'
 ### Mathematical Teachings
 
 #### University of New South Wales
-- Class Tutor (2024-present). Course tutored including MATH1081 Discrete Mathematics, MATH1131 Mathematics 1A, MATH1141 Higher Mathematics 1A, MATH1231 Mathematics 1B M,ATH1241 Higher Mathematics 1B and MATH1251 Mathematics for Actuarial Studies and Finance 1B.
-- Drop-in Centre Tutor (2023-present)
-- Exams Invigilator (2022-present)
-- Exams & Assignments Marker (2022-present)
+- Class Tutor (2024-2026). Course tutored including MATH1081 Discrete Mathematics, MATH1131 Mathematics 1A, MATH1141 Higher Mathematics 1A, MATH1231 Mathematics 1B M,ATH1241 Higher Mathematics 1B and MATH1251 Mathematics for Actuarial Studies and Finance 1B.
+- Drop-in Centre Tutor (2023-2026)
+- Exams Invigilator (2022-2026)
+- Exams & Assignments Marker (2022-2026)
 
 #### Institut Teknologi Bandung
 - Drop-in Centre Tutor (2019-2022)
@@ -32,6 +32,7 @@ With [Laurence Petrus Wijaya](https://sites.google.com/g.uky.edu/laurence-wijaya
 - D. Conlon, J. Fox and Y. Zhao, 'A relative Szemerédi theorem', GAFA **25** (2015), 733-762. [2023]
 - T. Tao and T. Ziegler, 'Infinite partial sumsets in the primes', J. Anal. Math. **151** (1) (2023), 375-389 [February-May 2024]
 - M. Bhargava, 'Galois groups of random integer polynomials and van der Waerden’s Conjecture’, accepted to Ann. Math. [August-November 2024]
+- 
 We also helped HIMATIKA ITB, the union of mathematics students in ITB, to moderate a reading group on `Proofs from THE BOOK' in 2025.
 
 ### Selected Other Mathematical Activities
