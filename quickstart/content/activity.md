@@ -22,7 +22,7 @@ weight: '3'
 #### Mathematical Olympiad 
 - Observer B for Indonesia at International Mathematical Olympiad 2025, Sunshine Coast, Australia.
 - Observer A for Indonesia at International Mathematical Olympiad 2021, held online.
-- Assistant Tutor, Indonesia International Mathematical Olympiad Training Camp (2017-present)
+- Assistant, Indonesia International Mathematical Olympiad Training Camp (2017-present)
 - Freelance mathematical olympiad tutor (2017-present)
 
 ### Reading Groups
@@ -32,10 +32,11 @@ With [Laurence Petrus Wijaya](https://sites.google.com/g.uky.edu/laurence-wijaya
 - D. Conlon, J. Fox and Y. Zhao, 'A relative Szemerédi theorem', GAFA **25** (2015), 733-762. [2023]
 - T. Tao and T. Ziegler, 'Infinite partial sumsets in the primes', J. Anal. Math. **151** (1) (2023), 375-389 [February-May 2024]
 - M. Bhargava, 'Galois groups of random integer polynomials and van der Waerden’s Conjecture’, accepted to Ann. Math. [August-November 2024]
+We also helped HIMATIKA ITB, the union of mathematics students in ITB, to moderate a reading group on `Proofs from THE BOOK' in 2025.
 
 ### Selected Other Mathematical Activities
 - Participant, Computational Aspect of Thin Groups, Institute for Mathematical Sciences & National University of Singapore (2024)
-- Participant, AMSI Summer School 2023 at University of Melbourne (held hybrid) (2023). Here is [my report](https://rhed.amsi.org.au/muhammad-afifurrahman/) as a grant recipient.
+- Participant, AMSI Summer School 2023 at University of Melbourne (2023). Here is [my report](https://rhed.amsi.org.au/muhammad-afifurrahman/) as a grant recipient.
 - Participant, Research Experience in Mathematics, HSE University, Moscow, Russia (held online) (2021), supervised by [Ilya V. Vyugin](https://www.hse.ru/en/org/persons/64523399)
 - Research assistant under various research projects in ITB, with supervisors including: Aleams Barra, [Intan Muchtadi-Alamsyah](https://scholar.google.com/citations?user=JklwtR0AAAAJ&hl=en), [Pritta Etriana Putri](https://scholar.google.com/citations?user=uguXwMAAAAAJ&hl=en).
 
@@ -46,8 +47,8 @@ With [Laurence Petrus Wijaya](https://sites.google.com/g.uky.edu/laurence-wijaya
 - **Fast Track Program Awardee**, Institut Teknologi Bandung, 2020-2021.
 - **First Prize**, International Mathematics Competition for University Students 2019.
 - **Gold Medal** in Mathematics, Olimpiade Nasional Matematika & Ilmu Pengetahuan Alam 2019.
-- **Bronze Medal**, Asian Pacific Mathematical Olympiad 2015.
 - **Gold Medal** in Mathematics for Senior High School, Olimpiade Sains Nasional 2015.
+- **Bronze Medal**, Asian Pacific Mathematical Olympiad 2015.
 
 ### Selected Scholarship and Grants
 - UNSW Tuition Fee Scholarship + Research Stipend Scholarship Holder (2022-2026 (expected))
