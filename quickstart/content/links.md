@@ -7,7 +7,7 @@ weight: '6'
 ![A](/img/funami.png)
 
 
-Yui Funami, YuruYuri. This was the frontpage picture for a long time, and when I changed the picture, my friend told me to let Yui stay here. 
+Yui Funami, YuruYuri. This was the frontpage picture when this homepage was made, and my friend protested when I replaced it with my real picture... 
 
 ### Other links
 - Here are my [English](https://afurraa.wordpress.com) and [Indonesian](https://mafifapip.wordpress.com) blogs (which are infrequently updated).
