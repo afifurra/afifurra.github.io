@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage of Muhammad Afifurrahman on Muhammad Afifurrahman</title>
-    <link>http://localhost:1313/</link>
+    <link>http://afifurra.github.io/</link>
     <description>Recent content in Homepage of Muhammad Afifurrahman on Muhammad Afifurrahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://afifurra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research &amp; Education</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://afifurra.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>http://afifurra.github.io/research/</guid>
       <description>Research Broadly speaking, I am interested in various aspects of discrete mathematics, especially analytic number theory, combinatorics, and finite fields. I worked on some finite fields problems before coming for PhD. My PhD project concerns arithmetic statistics of algebraic groups. Problems arising from this project often lead to studying distributions of integer or rational solutions to some system of Diophantine equations. In particular, most problems in my thesis can be summarised as studying the growth of the number of such solutions as the &amp;lsquo;height&amp;rsquo; of the solutions goes to infinity.</description>
     </item>
     <item>
       <title>Activities</title>
-      <link>http://localhost:1313/activity/</link>
+      <link>http://afifurra.github.io/activity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/activity/</guid>
+      <guid>http://afifurra.github.io/activity/</guid>
       <description>Other Mathematical Activities Mathematical Teachings University of New South Wales Class Tutor (2024-2026). Course tutored including MATH1081 Discrete Mathematics, MATH1131 Mathematics 1A, MATH1141 Higher Mathematics 1A, MATH1151 Mathematics for Actuarial Studies and Finance 1A, MATH1231 Mathematics 1B, MATH1241 Higher Mathematics 1B and MATH1251 Mathematics for Actuarial Studies and Finance 1B. Drop-in Centre Tutor (2023-2026) Exams Invigilator (2022-2026) Exams &amp;amp; Assignments Marker (2022-2026) Institut Teknologi Bandung Drop-in Centre Tutor (2019-2022) Exams Invigilator (2018-2022) Exams &amp;amp; Assignments Marker (2018-2022) Mathematical Olympiad Observer B for Indonesia at International Mathematical Olympiad 2025, Sunshine Coast, Australia.</description>
     </item>
     <item>
       <title>Other Works</title>
-      <link>http://localhost:1313/other/</link>
+      <link>http://afifurra.github.io/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/other/</guid>
+      <guid>http://afifurra.github.io/other/</guid>
       <description>Special Sessions I gave three separate sessions in Institut Teknologi Bandung (December 2024), Universitas Diponegoro (January 2025), and Universitas Gadjah Mada (February 2025) on preparations for studying graduate mathematics overseas, especially for mathematical research. Tl;dr please do mathematics overseas.&#xA;The slides are available in Bahasa Indonesia.&#xA;Mettamatika Project Mettamatika Project comes from Spearhead Circle, a pop-culture collective based in Indonesia, with backbones from my friends in ITB. The main mission of this project is to produce books that blend mathematical contents with pop culture references.</description>
     </item>
     <item>
       <title>Links &amp; Musings</title>
-      <link>http://localhost:1313/links/</link>
+      <link>http://afifurra.github.io/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
+      <guid>http://afifurra.github.io/links/</guid>
       <description>Yui Funami, YuruYuri. This was the frontpage picture when this homepage was made, and my friend protested when I replaced it with my real picture&amp;hellip;&#xA;Other links Here are my English and Indonesian blogs (which are infrequently updated). During the pandemic, I often crash into some online mathematical research seminars from Research Seminars webpage. In fact, I first knew my doctoral advisor from the Number Theory Web Seminar she organizes.</description>
     </item>
   </channel>
