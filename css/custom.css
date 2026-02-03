@@ -1,0 +1,22 @@
+details.spoiler summary {
+  cursor: pointer;
+  list-style: none;
+  display: block;
+  margin: 1.5rem 0 0.75rem;
+}
+
+details.spoiler-h1 summary { font-size: 2rem; font-weight: 700; }
+details.spoiler-h2 summary { font-size: 1.5rem; font-weight: 700; }
+details.spoiler-h3 summary { font-size: 1.25rem; font-weight: 700; }
+details.spoiler-h4 summary { font-size: 1.1rem; font-weight: 700; }
+details.spoiler-h5 summary { font-size: 1rem; font-weight: 700; }
+details.spoiler-h6 summary { font-size: 0.9rem; font-weight: 700; }
+
+details.spoiler summary::before {
+  content: "▶ ";
+}
+
+details.spoiler[open] summary::before {
+  content: "▼ ";
+}
+
